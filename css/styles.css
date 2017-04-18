@@ -1,0 +1,36 @@
+h1  {
+  font-family: sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 44pt;
+  color: #385d8e;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-weight: normal;
+  text-align: center;
+  font-size: 28pt;
+  color: #6B96C1;
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: 100;
+  text-align: center;
+  font-size: 22pt;
+  color: #75879e;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+ul {
+  font-family: sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 17pt;
+  color: #2f3946;
+}
